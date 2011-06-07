@@ -1,0 +1,4 @@
+module: ghoneycutt/apache
+version: 1.0.1
+url: file:///var/lib/puppet/puppet-module/cache/http_forge_puppetlabs_com-75a31f1d6f1ef6eb63b4479b3512ee1508209a7f/ghoneycutt-apache-1.0.1.tar.gz
+installed: Wed Sep 08 16:43:17 -0400 2010

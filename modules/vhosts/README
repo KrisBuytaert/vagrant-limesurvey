@@ -1,0 +1,10 @@
+TODO 
+
+Add the creation of multiple server aliasses
+Currently only 1 server alias is available
+# Template the creation of empty vhost directories together with logs and config files 
+
+
+Implement the removal of a vhost 
+
+
