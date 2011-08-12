@@ -1,0 +1,5 @@
+Initial work getting a Limesurvey setup fully puppetized.
+
+Ran into somme bugs in Lime not allowing it to setup it automatically from the cli (issues with session creation etc..) 
+
+
